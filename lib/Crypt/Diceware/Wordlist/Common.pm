@@ -94,7 +94,7 @@ our @Words = qw{
   blue bluebird bluish blunder blunt blurb blurring blush bluster boards
   boatload boatswain boatyard bobble boded bodice bodily bog bogus bold bole
   bolero boll bolster bolts bomb bombard bombast bombings bomblets bombs bond
-  bondsman boob boobs bookcase bookend bookmark bookworm boorish boost
+  bondsman bookcase bookend bookmark bookworm boorish boost
   booster boot bootleg bordello bordering bore borers boring borough bosom
   boss botanical botanist botanize botany bothered bottles bottling bouffant
   bounce bouncing boundary bountiful bow bowel bowing bowl bowler boxing
@@ -112,7 +112,7 @@ our @Words = qw{
   bundle bunghole bungle bungled buoyancy buoyant burden bureau burger
   burgess burgher burgundy burlap burned burnet burnish burp burping burrows
   bursar busman bussed busses bust bustards busters bustier busting bustle
-  busty busybody butcher butt butte buttered buttress buy buyouts buzzes
+  busybody butcher butte buttered buttress buy buyouts buzzes
   byline cabal cabalism cabin cabinet cabriole cacao cacophony cactus caddies
   caddis caddy cadence cadenza cadet caitiff cajole cajolery calculus calf
   calibers calipers call called caller callosity callow calorie calumny came
@@ -132,7 +132,7 @@ our @Words = qw{
   champagne chancery channel chanting chaos chap chapel char charge charlatan
   charmed charming charred chasm chasten chastise chastity chasuble chateau
   chattel cheating check checkered checkup cheer cheerio cheesy cherished
-  chervil chicano chick chief chieftain chiffon chill chilled chinaman ching
+  chervil chicano chick chief chieftain chiffon chill chilled ching
   chinooks chip chipmunk chipped chipping chirpy chisel chiseled chit
   chivalry chives choice choke cholera choleric choral christen chromatic
   chrome chromed chub chucking chuckle chug chump chunk chunky churlish churn
@@ -289,7 +289,7 @@ our @Words = qw{
   facile facility facsimile faction factious factual faculty fading fail
   faint fairly faith fake falcon fallacy fallback fallen fallible falling
   fallow family famine famish famished famous fanatic fancier fancies
-  fanciless fancy fanfare fanned fannies far farm farming fart fashion
+  fanciless fancy fanfare fanned far farm farming fashion
   fastball faster fatalism fathers fathom fatties fatuous faulty faun favor
   fawn fax faxes fealty fear feasible feasted feathered feature features
   febrile fecund federate fedora feeling feels feint felicity feline fell
@@ -370,9 +370,9 @@ our @Words = qw{
   hillside hinder hindmost hindrance hint hints hippest hirsute his
   hissy history hitherto hive hmong hoard hoarse hobbit hobnob hock hockey
   hog holdover hole hollowed hollowly homage home homed homely homemade
-  homemaker homespun homework homily homonym homophone homos honoree
+  homemaker homespun homework homily homonym homophone honoree
   honorific hood hoodwink hook hooks hoot hopeless hopscotch horde hornless
-  horny horribly hosed hosiery hosing hospice host hostility hot hotline
+  horribly hosed hosiery hosing hospice host hostility hot hotline
   howitzer huckster huddled huff huffed hum human humane humanize humbling
   humbug humiliate humming hummocks humorless humping hunch hunger hungry
   hunk hunks hunt hunts hurdle hurdler hurt hurting hurtle husband hussar
@@ -387,7 +387,7 @@ our @Words = qw{
   immune immutable impact impair impaired impale impaling impartial impassive
   impatient impede impedes impel impend imperil imperiled imperious impetuous
   impetus impiety impinges impious impliable implicate implicit implode
-  implore imply impolite impolitic important importune imposed impotent
+  implore imply impolite impolitic important importune imposed
   imprints impromptu improper improved improvise imprudent impudence impugn
   impulse impulsion impulsive impunity impure impurity impute inability
   inactive inane inanimate inapt inaudible inboard inborn inbred incentive
@@ -440,7 +440,7 @@ our @Words = qw{
   leaver lebanese leech leeward leftism legacy legalize legalized legally
   legging legible legionary legislate legume leisure lend lenders leniency
   lenient lens leonine leopard leprosy less lessen lest lethargy lettered
-  leukemia levee lever leverage leviathan levity levy lewd lexicon liable
+  leukemia levee lever leverage leviathan levity levy lexicon liable
   liaisons libel liberal liberate librarian library licensed licit lick
   licorice liege lien lies lieu lifeless lifelike lifelong lifes lifetime
   ligament ligature light lightbulb lighter ligneous lik like likely liken
@@ -573,7 +573,7 @@ our @Words = qw{
   pillaged pillar pillbox pillory pillowy pilot pimp pimped pin pincers
   pinchers pine pinecone pinheads pinions pinker pinnacle pinochle pinot
   pinstripe pinup pioneer pious pipa pipe pipefish piping pique piracy
-  piranha piss pissing piste pistils pistol piston pitch pitchers pitching
+  piranha piste pistils pistol piston pitch pitchers pitching
   piteous pith pitiable pitiful pitifully pitiless pitot pittance pivoting
   pizza pizzas placate placid plagued plait plan plant platitude plaudit
   plausible playback playful playfully playing plea plead pleasant pleasing
@@ -620,7 +620,7 @@ our @Words = qw{
   quarterly quartet quarto quartz quay queerest quelled queried querulous
   query question queue quibble quick quickly quiescent quiet quietism quietly
   quietus quills quintet quirk quit quite quixotic quoted rabbis rabid
-  raccoons racist racy radiance radiate radical radiology radix raffle raft
+  raccoons racy radiance radiate radical radiology radix raffle raft
   rage ragged raging raid raillery rainy raise rake raked ram rambler
   ramified ramify ramose rampaging rampant rampart ramparts rancor range rank
   ranked rankest rankle rankled ranks rap rapacious rapid rapine rapper
@@ -711,7 +711,7 @@ our @Words = qw{
   skyways slack slain slash slashed slave slayer sleaze sleazy sledge sleeps
   sleighs sleight slew slews slider slight slimmed slimy sling slippage
   slipped slipping slob slobby slosh slothful slovaks slow sluggard slugger
-  slugging slum slunk slurped slurred slut sly smacks small smartly smash
+  slugging slum slunk slurped slurred sly smacks small smartly smash
   smashed smeared smell smelting smock smoke smuggled smugly snack snacked
   snags snapped snarl snatch sneak sneeze snide snipe snippet snob snook
   snooze snorer snorts snowbank snowman snowmen snowy snuggle soaked soap
